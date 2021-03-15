@@ -6,7 +6,6 @@ module.exports = {
   siteMetadata: {
     title: config.title,
     description: config.description,
-    repoUrl: config.repository_url,
     about: config.about,
     contact: config.contact,
     primaryColor: config.primary_color,
@@ -46,7 +45,7 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-sharp", 
+      resolve: "gatsby-plugin-sharp",
       options: {
         defaultQuality: 75
       }
