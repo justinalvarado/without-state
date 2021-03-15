@@ -17,6 +17,7 @@ export default function useSiteMetadata() {
             cta
             description
             background_color
+            font_color
           }
         }
       }
