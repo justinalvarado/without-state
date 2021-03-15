@@ -1,10 +1,10 @@
 {
-  "name": "foresry-starter-blog-gatsby",
+  "name": "without-state",
   "private": true,
-  "description": "A simple starter blog to get up and developing quickly with Forestry & Gatsby",
+  "description": "Imagining life in a state without state.",
   "license": "MIT",
   "version": "0.1.0",
-  "author": "kendall strautman",
+  "author": "Justin Alvarado",
   "scripts": {
     "build": "gatsby build",
     "dev": "gatsby develop -o",
@@ -38,12 +38,8 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "keywords": [
-    "gatsby",
-    "forestry"
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kendallstrautman/brevifolia-gatsby-forestry"
+    "url": "https://github.com/justinalvarado/without-state"
   }
 }
